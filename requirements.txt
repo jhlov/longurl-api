@@ -1,0 +1,15 @@
+appdirs==1.4.4
+beautifulsoup4==4.9.3
+distlib==0.3.2
+filelock==3.0.12
+GDAL==2.4.2
+importlib-metadata==4.5.0
+pbr==5.6.0
+six==1.16.0
+soupsieve==2.2.1
+stevedore==3.3.0
+typing-extensions==3.10.0.0
+virtualenv==20.4.7
+virtualenv-clone==0.5.4
+virtualenvwrapper==4.8.4
+zipp==3.4.1
